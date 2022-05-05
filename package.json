@@ -29,6 +29,7 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.12",
     "@types/db-migrate-pg": "^0.0.10",
     "@types/dotenv": "^8.2.0",
     "@types/eslint": "^8.4.1",
